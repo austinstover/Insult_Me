@@ -8,7 +8,7 @@ Some choice examples this code generated:
   - "Maybe if you weren't such an unpersuadable goddamn hub-and-spoke, we could get some things done around here."
   - "I fail to understand how you've become such a verbal goddamn bandstand."
 
-Based off of [this](https://bearnicorn.tumblr.com/post/181365656420/i-present-the-formula-for-creating).
+Based off of [this](https://web.archive.org/web/20211031211546/https://bearnicorn.tumblr.com/post/181365656420/i-present-the-formula-for-creating).
 
 **Required Packages:**
   - [NLTK](https://www.nltk.org/install.html)
